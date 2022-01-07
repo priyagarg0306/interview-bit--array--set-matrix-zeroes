@@ -80,7 +80,7 @@ Output 2:
   
   **2nd method:**
   
-  void Solution::setZeroes(vector<vector<int> > &v) {
+  void Solution::setZeroes(vector<vector<int> > &A) {
 
     // int m=A.size(),n=A[0].size();
     // int r1=0,c1=0;
